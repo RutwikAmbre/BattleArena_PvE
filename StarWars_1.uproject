@@ -180,6 +180,10 @@
 		{
 			"Name": "CQTestEnhancedInput",
 			"Enabled": true
+		},
+		{
+			"Name": "ElectraPlayer",
+			"Enabled": true
 		}
 	]
 }
